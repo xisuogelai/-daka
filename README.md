@@ -1,0 +1,3 @@
+I know nothing 我什么也不懂
+项目全部代码由DeepSeek输出，仅在win11Edge浏览器运行过
+数据仅保存在本机浏览器
